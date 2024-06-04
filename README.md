@@ -1,2 +1,4 @@
 # Bug_Tracker
-A website for tracking bugs that helps customers to solve their bugs in an easy way.
+A website for tracking bugs that helps customers to get solutions for their bugs in an easy way.
+## Project notes
+
